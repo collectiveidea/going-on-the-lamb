@@ -1,0 +1,3 @@
+export ROLE_ARN=arn:aws:iam::<your-role-here>:role/lambda-full 
+export API_ENDPOINT=https://<your-api-endpoint-host-here>/prod/HelloFunction
+export REGION=us-east-1
